@@ -32,4 +32,5 @@ This module creates the Lambda function that powers the Discord bot commands for
 
 1. Copy the `lambda_function_url` output and set it as the  **Interactions Endpoint URL** in the Discord Developer Portal.
 
-![alt text](image.png)
+<img width="1201" height="116" alt="image" src="https://github.com/user-attachments/assets/a9fa0dc7-821f-4586-b4a9-b29c82e09b2a" />
+

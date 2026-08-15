@@ -4,7 +4,8 @@ This project provisions a complete ***Minecraft server*** on AWS using Terraform
 
 
 ## Architecture Overview
-![alt text](image.png)
+<img width="868" height="768" alt="image" src="https://github.com/user-attachments/assets/59387126-7642-4839-a3a6-08f9f9406526" />
+
 
 
 
